@@ -273,7 +273,7 @@ else
 window.location="https://www.google.com/";
 }
 var password1;
-var pass2="Viveksuthar";
+var pass2="Viveksutharhacker";
 password1 = prompt("Enter the user name: ");
 if(password1==pass2)
 alert("Correct username, This website is fake do not try to login or payment activity We are not responsable for these things");
